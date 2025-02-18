@@ -1,6 +1,6 @@
 <!-- Adding the animated smoking person GIF in fullscreen at the top -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZvdmtsc2NiNXE4emN1a2pyNmpyc2xmZmd4aTdxN21oMXNlbzdrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" alt="Person Smoking" width="1000px" height="300px">
+  <img src="https://github.com/saken78/saken78/blob/9de0bea0207e0ba3ec3073a0b6c350f753b7caf3/wallhaven-6drjmq_2251x500.png" alt="Person Smoking" width="1000px" height="300px">
 </div>
 
 # 💫 About Me:
