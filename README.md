@@ -1,3 +1,8 @@
+<!-- Adding the animated smoking person GIF in fullscreen at the top -->
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZvdmtsc2NiNXE4emN1a2pyNmpyc2xmZmd4aTdxN21oMXNlbzdrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" alt="Person Smoking" width="100%" />
+</div>
+
 # 💫 About Me:
 Linux enthusiast | Arch Linux tinkerer | Open-source explorer | Sometimes doing 3D/2D design 🚀
 
@@ -17,11 +22,6 @@ Linux enthusiast | Arch Linux tinkerer | Open-source explorer | Sometimes doing 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saken78&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Adding the animated smoking person GIF in fullscreen -->
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ2djAwMHdqbmJjMzdvdWtvZ3FxM3gxZ2Ztd2NoYjJqaHl3eTZrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eHyl5MMV68oM/giphy.gif" alt="Person Smoking" width="100%" />
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saken78&icon=0&color=0)](https://visitcount.itsvg.in)
