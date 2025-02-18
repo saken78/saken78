@@ -18,9 +18,9 @@ Linux enthusiast | Arch Linux tinkerer | Open-source explorer | Sometimes doing 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saken78&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<!-- Adding the animated smoking person GIF -->
+<!-- Adding the animated smoking person GIF in fullscreen -->
 <div align="center">
-  <img src="https://media.giphy.com/media/1h6CJDFyI1jza/giphy.gif" alt="Person Smoking" height="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ2djAwMHdqbmJjMzdvdWtvZ3FxM3gxZ2Ztd2NoYjJqaHl3eTZrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eHyl5MMV68oM/giphy.gif" alt="Person Smoking" width="100%" />
 </div>
 
 ---
