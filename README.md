@@ -1,36 +1,29 @@
-<h2 align="left">Hi 👋! I'm Saken, a Linux enthusiast and open-source explorer!</h2>
+# 💫 About Me:
+Linux enthusiast | Arch Linux tinkerer | Open-source explorer | Sometimes doing 3D/2D design 🚀
 
-###
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakennn12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sakenn12)
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3E5cXBpMGR6c2lkeXJiNTB5a2Y1MTdkcjZvZ3Ewb21lMGhnamsxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" />
+# 💻 Tech Stack:
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saken78&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saken78&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saken78&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saken78&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<!-- Adding the animated smoking person GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/1h6CJDFyI1jza/giphy.gif" alt="Person Smoking" height="200"/>
 </div>
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=saken78&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <a href="https://www.youtube.com/@sakenn12" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
-  </a>
-  <a href="https://www.instagram.com/sakennn12" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="mailto:sakenspot@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-</div>
-
-<!-- Adding robot animation in the table -->
-
-<table>
-  <tr>
-    <td><img src="https://media.giphy.com/media/2rzktgtD0Q0ZG/giphy.gif" height="100" alt="Robot Animation" /></td>
-    <td>Other content here</td>
-  </tr>
-</table>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
