@@ -1,6 +1,8 @@
-<!-- Adding the animated smoking person GIF in fullscreen at the top -->
+<!-- Adding the autoplay video at the top with adjusted height -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZvdmtsc2NiNXE4emN1a2pyNmpyc2xmZmd4aTdxN21oMXNlbzdrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" alt="Person Smoking" width="100%" />
+  <video autoplay loop muted width="100%" height="auto">
+    <source src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZvdmtsc2NiNXE4emN1a2pyNmpyc2xmZmd4aTdxN21oMXNlbzdrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" type="video/mp4" />
+  </video>
 </div>
 
 # 💫 About Me:
