@@ -25,3 +25,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 </div>
+
+<!-- Adding robot animation in the table -->
+
+<table>
+  <tr>
+    <td><img src="https://media.giphy.com/media/2rzktgtD0Q0ZG/giphy.gif" height="100" alt="Robot Animation" /></td>
+    <td>Other content here</td>
+  </tr>
+</table>
