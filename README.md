@@ -6,6 +6,7 @@
 # 🌫️ About Me:
 
 **Hello, this is my second GitHub account because my first one is no longer accessible. I am now using this account for all my projects and development work.**
+
 Linux enthusiast | Arch Linux tinkerer | Open-source explorer | Sometimes doing 3D/2D design 🚀
 
 ## 🌐 Socials:
