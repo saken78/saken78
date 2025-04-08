@@ -1,6 +1,6 @@
 <!-- Adding the animated smoking person GIF in fullscreen at the top -->
 <div align="center">
-  <img src="https://github.com/saken78/saken78/blob/a7716416804edcc258199a1ceaffebf3b4f4de3e/wallhaven-6drjmq_2251x700.png" alt="cute fire >-<" width="1000px" height="300px">
+  <img src="https://github.com/saken78/saken78/blob/a7716416804edcc258199a1ceaffebf3b4f4de3e/wallhaven-6drjmq_2251x700.png" alt=" >-<" width="1000px" height="300px">
 </div>
 
 # 🌫️ About Me:
