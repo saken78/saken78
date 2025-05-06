@@ -3,11 +3,11 @@
   <img src="https://github.com/saken78/saken78/blob/a7716416804edcc258199a1ceaffebf3b4f4de3e/wallhaven-6drjmq_2251x700.png" alt=" >-<" width="1000px" height="300px">
 </div>
 
-# 🌫️ About Me:
+# 🌫🫠 About Me:
 
 **Hello, this is my second GitHub account because my first one is no longer accessible. I am now using this account for all my projects and development work.**
 
-Linux enthusiast | Arch Linux tinkerer | Open-source explorer | Sometimes doing 3D/2D design 🚀
+**Linux enthusiast | Arch Linux tinkerer | Open-source explorer | Sometimes doing 3D/2D design 🚀**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakennn12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sakenn12)
