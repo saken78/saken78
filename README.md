@@ -4,7 +4,7 @@
 </div>
 
 
-# 🌫🫠 About Me:
+# 🫠 About Me:
 
 **Hello, this is my second GitHub account because my first one is no longer accessible. I am now using this account for all my projects and development work.**
 
