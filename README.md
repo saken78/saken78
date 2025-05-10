@@ -5,10 +5,10 @@
 
 # 🫠 Who Am I?
 
-Yo, I’m **Saken**, your friendly neighborhood code slinger. This is my second GitHub account because the first one got locked out (don’t ask 🤐). But now, this is where all the magic happens — projects, code, and everything in between.
+**Yo, I’m **Saken**, your friendly neighborhood code slinger. This is my second GitHub account because the first one got locked out (don’t ask 🤐). But now, this is where all the magic happens — projects, code, and everything in between.**
 
-- **Linux Junkie** | **Arch Linux Hacker** | **Open-Source Rebel**
-- Occasionally breaking things, sometimes making cool stuff in **3D/2D design** 🚀
+- **Linux Junkie** | **Arch Linux Thinkerer** | **Open-Source Rebel**
+- **Occasionally breaking things, sometimes making cool stuff in 3D/2D design** 🚀
 
 ## 🌐 Let’s Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakennn12)  
