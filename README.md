@@ -3,14 +3,14 @@
   <img src="https://github.com/saken78/saken78/blob/a7716416804edcc258199a1ceaffebf3b4f4de3e/wallhaven-6drjmq_2251x700.png" alt=" >-<" width="1000px" height="300px">
 </div>
 
-# 🫠 About Me:
+# 🫠 Who Am I?
 
-Hey there! I'm **Saken**, and this is my second GitHub account (my first one is now locked out, bummer). This account is where all my ongoing projects and development work happen.
+Yo, I’m **Saken**, your friendly neighborhood code slinger. This is my second GitHub account because the first one got locked out (don’t ask 🤐). But now, this is where all the magic happens — projects, code, and everything in between.
 
-- **Linux enthusiast** | **Arch Linux tinkerer** | **Open-source explorer**
-- Sometimes I dive into **3D/2D design** and other creative tech projects 🚀
+- **Linux Junkie** | **Arch Linux Hacker** | **Open-Source Rebel**
+- Occasionally breaking things, sometimes making cool stuff in **3D/2D design** 🚀
 
-## 🌐 Connect with me:
+## 🌐 Let’s Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakennn12)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sakenn12)
 
