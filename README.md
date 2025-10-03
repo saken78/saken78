@@ -5,10 +5,8 @@
 
 # 👋 Hi, I’m Saken  
 
-This is my second GitHub account (the first one got locked, long story 😅).  
-Here’s where I keep my projects, experiments, and random code.  
+This is my second GitHub account (the first one got locked, long story 😅). Here’s where I keep my projects, experiments, and random code.  
 
-- ⚡ Tinkering with **Linux & open-source**  
 - 🔧 Customizing tools & workflows  
 - 🎨 Sometimes messing with **2D/3D design**  
 - 🛠️ Sometimes building things that actually work  
