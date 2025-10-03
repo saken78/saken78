@@ -3,7 +3,7 @@
   <img src="https://github.com/saken78/saken78/blob/a7716416804edcc258199a1ceaffebf3b4f4de3e/wallhaven-6drjmq_2251x700.png" alt=" >-<" width="1000px" height="300px">
 </div>
 
-# 👋 Hi, I’m Saken  
+# 👋 Hi, I’m Bintang Rias   
 
 This is my second GitHub account (the first one got locked, long story 😅). Here’s where I keep my projects, experiments, and random code.  
 
