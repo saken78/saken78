@@ -7,9 +7,9 @@
 
 ## This is my second GitHub account (the first one got locked, long story 😅). Here’s where I keep my projects, experiments, and random code.  
 
-### - 🔧 Customizing tools & workflows  
-### - 🎨 Sometimes messing with **2D/3D design**  
-### - 🛠️ Sometimes building things that actually work  
+ - 🔧 Customizing tools & workflows  
+ - 🎨 Sometimes messing with **2D/3D design**  
+ - 🛠️ Sometimes building things that actually work  
 
 ---
 
