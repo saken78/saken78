@@ -1,42 +1,47 @@
-name: GitHub Snake Game
+name: Waka Readme
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 0 * * *"
-  # Allow manual triggering of the workflow
+    # Runs at 12:30 AM IST (18:00 UTC previous day)
+    - cron: '30 18 * * *'
   workflow_dispatch:
-  # Trigger the workflow on pushes to the main branch
-  push:
-    branches:
-      - main
+
 jobs:
-  generate:
+  update-readme:
+    name: Update README with Dev Metrics
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-      # Step 2: Generate the snake animations
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
+      - uses: anmol098/waka-readme-stats@master
         with:
-          # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # Step 3: Deploy the generated files to the 'output' branch
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          # Optionally, you can set a custom commit message
-          commit_message: "Update snake animation [skip ci]"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          
+          # Commit Configuration
+          COMMIT_MESSAGE: "Updated with dev metrics"
+          COMMIT_BY_ME: "False"
+          
+          # Display Options - CUSTOMIZED FOR YOUR PREFERENCE
+          SHOW_COMMIT: "False"              # Hide commit stats
+          SHOW_DAYS_OF_WEEK: "False"        # Hide days of week
+          SHOW_LANGUAGE: "True"             # SHOW Languages
+          SHOW_OS: "True"                   # SHOW Operating Systems
+          SHOW_PROJECTS: "True"             # SHOW Projects
+          SHOW_EDITORS: "False"             # Hide editors
+          SHOW_TIMEZONE: "False"            # Hide timezone
+          SHOW_LOC_CHART: "False"           # Hide LOC chart
+          SHOW_LINES_OF_CODE: "False"       # Hide total lines of code
+          SHOW_TOTAL_CODE_TIME: "False"     # Hide total code time
+          SHOW_PROFILE_VIEWS: "False"       # Hide profile views
+          SHOW_SHORT_INFO: "False"          # Hide short GitHub data
+          SHOW_UPDATED_DATE: "True"         # Show when updated
+          
+          # Customization
+          SECTION_NAME: "waka"
+          IGNORED_REPOS: ""
+          MAX_REPOS: "0"
+          
+          # Badge Style (flat, flat-square, plastic, for-the-badge, social)
+          BADGE_STYLE: "flat"
+          
+          # Symbol Version (1, 2, or 3)
+          SYMBOL_VERSION: "1"
